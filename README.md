@@ -5,9 +5,7 @@ A two-player Ping Pong game built with Python turtle featuring real-time control
 
 ![Output 1](pingpong_screenshots/pingpong1.png)
 
-![Output 2](pingpong_screenshots/pingpong2.png)
-
-![Output 3](pingpong_screenshots/pingpong3.png)
+![Output 2](pingpong_screenshots/pingpong3.png)
 
 
 
